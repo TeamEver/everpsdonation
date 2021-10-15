@@ -1,0 +1,17 @@
+.d-none{
+	display: none;
+}
+.donation-block{
+	background: #135a9e;
+	border: 3px solid #fc0101; 
+}
+.donation-block p{
+	color:#fff;
+	text-align: center;
+}
+#cart-donation-amount, #product-donation-amount{
+	/*color:#fc0101;*/
+	color:#fff;
+	font-size: 1.2rem;
+	font-weight: bold;
+}
